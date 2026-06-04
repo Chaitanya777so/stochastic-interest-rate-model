@@ -191,9 +191,10 @@ Potential extensions of this project include:
 ## Author
 
 **Chaitanya Sonowal**
-
-Integrated B.Tech in Geophysical Technology  
-Indian Institute of Technology (IIT) Roorkee
+22411012
+Integrated M.Tech in Geophysical Technology 
+Earth Sciences Department
+Indian Institute of Technology , Roorkee
 
 ---
 
