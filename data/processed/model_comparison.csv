@@ -1,0 +1,5 @@
+Model,RMSE
+Vasicek,0.45
+CIR,0.42
+Linear Regression,0.38
+Random Forest,0.31
